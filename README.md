@@ -71,7 +71,8 @@ Ni ravno zgodovinar, a se iz šolskih časov spomni, da je Cezar svoja sporočil
 
 8. Interpretiraj si A7 v najmanjšem možnem številskem sistemu in seštej njegove števke.
 
-9. Najdi dolžino najkrajše poti skozi labirinit v datoteki `mazeA8.txt`.
+9. Najdi dolžino najkrajše poti skozi labirinit v datoteki `mazeA8.txt`. Temu odgovoru prištej
+   število med 12 in 45.
 
 10. Sestavi nagradni niz, katerega črke po vrsti so:
 
