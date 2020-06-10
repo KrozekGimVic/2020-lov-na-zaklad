@@ -58,10 +58,9 @@ Ni ravno zgodovinar, a se iz šolskih časov spomni, da je Cezar svoja sporočil
 	</p>
 	</details>
 
-5. Urška je prek vrat slišala materino namero. Ker je v dolgih nočeh, ko je čakala Franceljna prebrala cel kup knjig o kriptografiji (za razliko od svojega izbranca, ki knjige bere le poredko), ima že idejo kako ostati korak pred materjo. Franclju bo poslala spodnje sporočilo, kjer bo na koncu dodala eno samo besedo, tako da bodo vse črke v sporočilu enako pogoste, in bo materina ukana zaman. Kako dolga bo polnilna beseda?
+5. Urška je prek vrat slišala materino namero. Ker je v dolgih nočeh, ko je čakala Franceljna prebrala cel kup knjig o kriptografiji (za razliko od svojega izbranca, ki knjige bere le poredko), ima že idejo kako ostati korak pred materjo. Franclju bo poslala spodnje sporočilo, kjer bo na koncu dodala eno samo besedo, tako da bodo vse črke v sporočilu enako pogoste, in bo materina ukana zaman. Kako dolga bo polnilna beseda, če ji prišteješ še 44?
 	Urškino sporočilo se glasi:
-	```francelj, pazi, mati vedo za najin način kriptiranja, zato ti bodem pripravila program, ki naredi šifro nekoliko močnejšo, da pa mati ne bodo prebrali tega sporočila, je na koncu beseda, ki jo ignoriraj.```
-
+	```francelj, pazi, mati vedo za najin nacin kriptiranja, zato ti bodem pripravila program, ki naredi sifro nekoliko mocnejso, da pa mati ne bodo prebrali tega sporocila, je na koncu beseda, ki jo ignoriraj.```
 
 ## B del (samo starejši)
 
